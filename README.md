@@ -1,0 +1,2 @@
+# terra-rogue
+terraform管理されていない野良のawsリソースを検知するCLI
